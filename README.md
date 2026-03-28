@@ -30,7 +30,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Strelizia02&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
-
-## Sponsor
-
-![1678371391423](https://user-images.githubusercontent.com/48582013/224052496-be05ae19-7af7-4009-9816-402d70cf2257.jpg)
